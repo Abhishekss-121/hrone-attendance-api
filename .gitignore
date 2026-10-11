@@ -4,8 +4,6 @@ __pycache__/
 *.jpg
 *.pdf
 *.docx
-qa_seed.py
-scratch.py
 openapi*
 PROBLEM_STATEMENT*
 DATA_MODEL.md
